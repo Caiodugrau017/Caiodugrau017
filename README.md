@@ -1,9 +1,9 @@
 ### Boas vindas ao meu perfil
 
-Meu nome e Caio rodrigues
+Meu nome e Caio Rodrigues
 
-Estou estudando na Alura
-Estou me desenvolvendo na Linguagem JavaScript
+-Estou estudando na Alura
+-Estou me desenvolvendo na Linguagem JavaScript
 -Ultilizo esse espaço para minha organização e Compatilhamanto dos meus projeto desenvolvidos
 
 -### Você pode entrar em contato comigo 📧
