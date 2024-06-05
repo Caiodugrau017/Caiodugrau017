@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil
+### Boas vindas ao meu perfil!
 
-Meu nome e Caio Rodrigues
+Meu nome é Caio Rodrigues
 
 -Estou estudando na Alura
 -Estou me desenvolvendo na Linguagem JavaScript
